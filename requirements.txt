@@ -3,4 +3,4 @@ astropy
 scipy
 matplotlib
 pandas
-copy
+
